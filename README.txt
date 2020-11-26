@@ -1,21 +1,28 @@
-Title:
-Super Shop POS System
+Application name: Shop Chief Pro
 
-Top 10 features:
+Type of application: Stand Alone App for Desktop and Laptop computers
 
-1. Easy to use user interface
-2. Quick product lookup
-3. Category-wise inventory management
-4. Hierarchy-wise sign up system
-5. Return and refund policy
-6. Bulk product import
-7. Secures sales database
-8. Customer membership facility
-9. Supplier management for easy stock purchase
-10. Excel based database system
+Main features:
 
+- Easy to use user interface
+- Quick product lookup
+- Provides category-wise inventory management
+- Allows hierarchy-wise sign up system
+- Offers return and refund policy
+- Allots importing proucts in bulk
+- Ensures secure sales database
+- Comes up with customer membership facility
+- Offers supplier management for easy stock purchase
+- Includes Excel based database system
 
-Team information:
+Operating System: Windows
+
+Written in: JAVA
+
+How to run: Install latest JDK
+	    Run the Chief.jar file
+
+Developers:
 
 1. Name: S.M. Haser Hindhol (Scrum Master)
    ID: 1611927042
@@ -29,3 +36,5 @@ Links of materials:
 
 1. https://www.vendhq.com/blog/pos-features-for-retail-management-systems/
 2. https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28
+3. https://github.com/ShMHaser/Pay-Your-Bill.git
+4. https://github.com/ShMHaser/Fashion-House-Management-System.git
