@@ -38,3 +38,4 @@ Links of materials:
 2. https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28
 3. https://github.com/ShMHaser/Pay-Your-Bill.git
 4. https://github.com/ShMHaser/Fashion-House-Management-System.git
+5. https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/
